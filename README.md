@@ -16,4 +16,4 @@ The tutorial follows the full machine learning pipeline:
 
 6.Accuracy evaluation and decision boundary visualisation
 
-*All plots included in tutorial.pdf are generated from the Jupyter notebook*.
+**All plots included in tutorial.pdf are generated from the Jupyter notebook**.
